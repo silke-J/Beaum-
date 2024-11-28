@@ -1,0 +1,10 @@
+ h2{
+    background-color:  #F4ACB7  ;
+    border: 5px solid #FFCAD4 ;
+    color: white;
+    height: 90px;
+    margin-top: 80px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+}

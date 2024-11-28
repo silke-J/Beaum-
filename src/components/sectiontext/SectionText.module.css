@@ -1,0 +1,19 @@
+.sectionContent{
+    font-size: 15px;
+    width: 800px;
+   
+}
+section{
+    display: block;
+    justify-items: center;
+    text-align: left;
+}
+
+@media (max-width: 768px) {
+  .sectionContent{
+    width: 300px;
+    margin-top: 20px;
+  }
+
+
+}

@@ -1,0 +1,17 @@
+h1{
+   font-size: 40px; 
+   font-weight: 800;
+}
+
+.text{
+    margin-top: 20px;
+}
+.about{
+    margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+  .text{
+    margin-bottom: 40px;
+  }
+}
