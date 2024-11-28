@@ -29,7 +29,7 @@ const Products = () => {
 
   return (
     <section>
-      <PageHeader img={img}  />
+      <PageHeader img={img} title="Produkter"  />
       <div>
         <Button
           buttonText="All"
